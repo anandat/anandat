@@ -1,7 +1,7 @@
 ### Hi there, I'm Atul 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a mobile Apps :P !
+- 🔭 I’m currently working on a mobile Apps using Flutter <3 :P !
 - ⚡ Conuter-Strike is Love 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
