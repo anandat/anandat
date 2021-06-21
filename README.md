@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on mobile Apps using Flutter <3  !
 - ⚡ Counter-Strike is Love 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
